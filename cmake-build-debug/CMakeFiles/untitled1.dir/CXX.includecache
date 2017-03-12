@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oracle/CLionProjects/untitled1/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+ctime
+-
+cmath
+-
+
