@@ -8,7 +8,7 @@
 #define PI 3.14159265
 
 
-// Let`s check file, tracked by GitHub
+
 using namespace std;
 
 
