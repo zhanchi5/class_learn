@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/home/oracle/CLionProjects/untitled1/Areas.h
+
 /home/oracle/CLionProjects/untitled1/main.cpp
 iostream
 -
@@ -17,4 +19,6 @@ ctime
 -
 cmath
 -
+Areas.h
+/home/oracle/CLionProjects/untitled1/Areas.h
 
